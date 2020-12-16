@@ -1,6 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+
+---A joy shared is doubled, a grief shared is halved. 
 Use the left arrow to go back!
